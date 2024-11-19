@@ -6,4 +6,5 @@ git clone
 git push origin master
 git pull origin master
 git restore
-
+git branch
+git switch dev
